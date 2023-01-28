@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    # 检出当前项目代码
+    # 检出当前项目代码 https://github.com/actions/checkout
     - name: Checkout
       uses: actions/checkout@v2
     # 配置好node环境
