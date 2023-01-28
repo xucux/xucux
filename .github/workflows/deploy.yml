@@ -25,7 +25,7 @@ jobs:
     # 执行js命令    
     - name: Update YearBar.js
       run: |
-          node ./src/progressBar.js
+          node /home/runner/work/xucux/xucux/main/src/progressBar.js
     - name: Commit Change & Push
       run: |
           git config user.name 'github actions'
