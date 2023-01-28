@@ -24,6 +24,7 @@ jobs:
     - name: Update YearBar.js
       run: |
           node ./src/progressBar.js
+    # 需要打开read and write权限 https://github.com/ad-m/github-push-action/issues/96      
     - name: Commit Change & Push
       run: |
           git config user.name 'github actions'
