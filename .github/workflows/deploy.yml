@@ -27,6 +27,6 @@ jobs:
     - name: Commit change & Push
       run: |
           git config user.name 'github actions'
-          git config user.email '52966229+xu-ux@users.noreply.github.com'
+          git config user.email '87641777+xucux@users.noreply.github.com'
           git commit -am "bot: update progressBar"
           git push
