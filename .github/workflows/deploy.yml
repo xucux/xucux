@@ -12,19 +12,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    # - name: Set up Python
-    #   uses: actions/setup-python@v1
-    #   with:
-    #     python-version: 3.8
-    - name: Use Node.js
-      uses: actions/setup-node@v1
+    # 检出当前项目代码
+    - name: Checkout
+      uses: actions/checkout@v3
       with:
-        node-version: '16.x'
-    - name: Update year bar
+        path: main
+    # 配置好node环境
+    - name: Use Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+    # 执行js命令    
+    - name: Update YearBar.js
       run: |
           node ./src/progressBar.js
-    - name: Commit change & Push
+    - name: Commit Change & Push
       run: |
           git config user.name 'github actions'
           git config user.email '87641777+xucux@users.noreply.github.com'
