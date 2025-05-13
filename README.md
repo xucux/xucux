@@ -20,8 +20,8 @@
 
 <!--START_WEATHER-->
 GuangZhou ☀️  
-🌡+23°C 65% moon:🌕
-🌄05:22:41 🌇19:23:48
+🌡+19°C 83% moon:🌕
+🌄05:22:08 🌇19:24:19
 <!--END_WEATHER-->
 
 [![xucux's github stats](https://github-readme-stats.vercel.app/api?username=xucux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/xu-ux/blog-crawl-admin)
@@ -30,7 +30,7 @@ GuangZhou ☀️
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  36.0990 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  36.1756 %
 
 <!--END_SECTION:progressBar-->
 
