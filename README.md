@@ -1,4 +1,4 @@
-<a href="https://xucux.github.io" target="_blank"><img align="right" width="400" src="https://cdn.jsdelivr.net/gh/xu-ux/static/img/blog/2021/cat.gif"></a>
+<!--<a href="https://xucux.github.io" target="_blank"><img align="right" width="400" src="https://cdn.jsdelivr.net/gh/xu-ux/static/img/blog/2021/cat.gif"></a>-->
 
 # Hi, I'm [Xucux](https://xucux.github.io) 👋.
 
@@ -20,6 +20,7 @@
 
 <!--START_WEATHER-->
 Unknown location; please try ~23.1387267,113.319321
+
 <!--END_WEATHER-->
 
 [![xucux's github stats](https://github-readme-stats.vercel.app/api?username=xucux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/xu-ux/blog-crawl-admin)
