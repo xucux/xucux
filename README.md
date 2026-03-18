@@ -19,9 +19,8 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-guangzhou ☀️  
-🌡+23°C 64% moon:🌑
-🌄06:10:23 🌇18:59:38
+Get "http://www.wttr.in/GuangZhou?m&format=%25l+%25c%0A%F0%9F%8C%A1%25t+%25h+moon:%25m%0A%F0%9F%8C%84%25D+%F0%9F%8C%87%25d&lang=zh-cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+
 <!--END_WEATHER-->
 
 [![xucux's github stats](https://github-readme-stats.vercel.app/api?username=xucux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/xu-ux/blog-crawl-admin)
@@ -30,7 +29,7 @@ guangzhou ☀️
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  20.8376 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  20.9003 %
 
 <!--END_SECTION:progressBar-->
 
