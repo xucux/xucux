@@ -19,8 +19,9 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-render failed: response missing current_condition array
-
+guangzhou ⛅️ 
+🌡+26°C 65% moon:🌒
+🌄06:06:29 🌇19:01:10
 <!--END_WEATHER-->
 
 [![xucux's github stats](https://github-readme-stats.vercel.app/api?username=xucux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/xu-ux/blog-crawl-admin)
@@ -29,7 +30,7 @@ render failed: response missing current_condition array
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  21.9334 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  21.9938 %
 
 <!--END_SECTION:progressBar-->
 
