@@ -19,9 +19,8 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-guangzhou ⛈  
-🌡+24°C 89% moon:🌔
-🌄05:57:37 🌇19:05:01
+weather fetch failed: failed to make HTTP request: Get "http://127.0.0.1:5001/premium/v1/weather.ashx?key=2b505b8f72ad3b4b2d528d804cb15&q=23.138727,113.319321&format=json&num_of_days=3&includelocation=yes&lang=zh-cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+
 <!--END_WEATHER-->
 
 [![xucux's github stats](https://github-readme-stats.vercel.app/api?username=xucux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/xu-ux/blog-crawl-admin)
@@ -30,7 +29,7 @@ guangzhou ⛈
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  24.1295 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  24.1925 %
 
 <!--END_SECTION:progressBar-->
 
