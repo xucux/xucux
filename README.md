@@ -19,8 +19,9 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-weather data source not available
-
+guangzhou 🌦  
+🌡+27°C 84% moon:🌖
+🌄05:48:50 🌇19:08:34
 <!--END_WEATHER-->
 
 [![xucux's github stats](https://github-readme-stats.vercel.app/api?username=xucux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/xu-ux/blog-crawl-admin)
@@ -29,7 +30,7 @@ weather data source not available
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  26.4498 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  26.5165 %
 
 <!--END_SECTION:progressBar-->
 
