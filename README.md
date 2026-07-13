@@ -391,7 +391,7 @@
     </style>
 </head>
 <body>
-    <div class="term-container">GuangZhou 🌤️
+    <div class="term-container">GuangZhou ☁️
 🌡+31°C 75% moon:🌑
 🌄05:22:50 🌇19:42:05
     </div>
@@ -406,7 +406,7 @@
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  52.8182 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  52.8986 %
 
 <!--END_SECTION:progressBar-->
 
