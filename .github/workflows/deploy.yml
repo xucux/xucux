@@ -14,20 +14,31 @@ jobs:
     steps:
     # 检出当前项目代码 https://github.com/actions/checkout
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
+      with:
+        # 定时任务触发时也拿到完整历史，便于 rebase 后推送
+        fetch-depth: 0
     # 配置好node环境
     - name: Use Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
-        node-version: '16'
-    # 执行js命令    
-    - name: Update YearBar.js
+        node-version: '20.x'
+    # 执行js命令：更新年份进度条 + 多城市天气
+    - name: Update YearBar & Weather
       run: |
           node ./src/progressBar.js
-    # 需要打开read and write权限 https://github.com/ad-m/github-push-action/issues/96      
+    # 需要打开read and write权限 https://github.com/ad-m/github-push-action/issues/96
     - name: Commit Change & Push
       run: |
           git config user.name 'github actions'
           git config user.email '87641777+xucux@users.noreply.github.com'
-          git commit -am "bot: update progressBar"
+          git add README.md
+          # 没有变更时不提交，避免 commit 失败导致整个 workflow 报错
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "bot: update progressBar & weather"
+          fi
+          # 远端有新提交（如手动推送）时先 rebase 再推送，避免定时任务与手动推送冲突
+          git pull --rebase origin main || echo "nothing to rebase"
           git push
