@@ -16,11 +16,11 @@
 
 <!--START_WEATHER-->
 GuangZhou ☀️ 
-🌡+20°C 74% moon:🌘
+🌡+25°C 41% moon:🌘
 🌄05:56:17 🌇18:33:40
 
-Wuhan ✨ 
-🌡+17°C 42% moon:🌘
+Wuhan ☀️ 
+🌡+22°C 32% moon:🌘
 🌄05:53:49 🌇18:28:17
 <!--END_WEATHER-->
 
@@ -33,6 +33,6 @@ Wuhan ✨
 
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑  76.1586 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑  76.2099 %
 
 <!--END_SECTION:progressBar-->
